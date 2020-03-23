@@ -1,1 +1,4 @@
+Windows version already include LLVM.DLL, LTO.DLL, and GCC required libraries.
+Also included lli.exe, llc.exe, llvm-as.exe, and llvm-dis.exe.
 
+These are taken from my personal LLVM builds (version 8.0.0), using MinGW 64 bits toolchain, GCC 9.2.0 with Binutils-2.33.1
